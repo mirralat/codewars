@@ -1,2 +1,2 @@
 # Codewars tasks
-## My profile: https://www.codewars.com/users/Mirralat
+My profile: https://www.codewars.com/users/Mirralat
